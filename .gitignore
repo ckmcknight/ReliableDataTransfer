@@ -1,0 +1,8 @@
+foo-received.txt
+.idea/
+*.iml
+.idea/*.xml
+.idea/*.iml
+*.swp
+*.class
+*.pyc
